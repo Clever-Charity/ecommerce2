@@ -69,7 +69,7 @@
 						</div>
 						<div class="product-info">
 							<a href="#" class="product-name"><span>Nintendo Switch – OLED Model White set</span></a>
-							<div class="wrap-price"><span class="product-price">RM1,299.00</span></div>
+							<div class="wrap-price"><span class="product-price">RM 1,299.00</span></div>
 						</div>
 					</div>
 
@@ -87,7 +87,7 @@
 						</div>
 						<div class="product-info">
 							<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-							<div class="wrap-price"><ins><p class="product-price">RM168.00</p></ins> <del><p class="product-price">RM400.00</p></del></div>
+							<div class="wrap-price"><ins><p class="product-price">RM 168.00</p></ins> <del><p class="product-price">RM 400.00</p></del></div>
 						</div>
 					</div>
 
@@ -105,7 +105,7 @@
 						</div>
 						<div class="product-info">
 							<a href="#" class="product-name"><span>Utespelare [White]</span></a>
-							<div class="wrap-price"><span class="product-price">RM570.00</span></div>
+							<div class="wrap-price"><span class="product-price">RM 570.00</span></div>
 						</div>
 					</div>
 
@@ -123,7 +123,7 @@
 						</div>
 						<div class="product-info">
 							<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-							<div class="wrap-price"><ins><p class="product-price">RM168.00</p></ins> <del><p class="product-price">RM350.00</p></del></div>
+							<div class="wrap-price"><ins><p class="product-price">RM 168.00</p></ins> <del><p class="product-price">RM 350.00</p></del></div>
 						</div>
 					</div>
 
@@ -141,7 +141,7 @@
 						</div>
 						<div class="product-info">
 							<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-							<div class="wrap-price"><span class="product-price">RM250.00</span></div>
+							<div class="wrap-price"><span class="product-price">RM 250.00</span></div>
 						</div>
 					</div>
 
@@ -159,7 +159,7 @@
 						</div>
 						<div class="product-info">
 							<a href="#" class="product-name"><span>LG - Smarthome Television</span></a>
-							<div class="wrap-price"><ins><p class="product-price">RM1,688.00</p></ins> <del><p class="product-price">RM2,500.00</p></del></div>
+							<div class="wrap-price"><ins><p class="product-price">RM 1688.00</p></ins> <del><p class="product-price">RM 2500.00</p></del></div>
 						</div>
 					</div>
 
@@ -177,7 +177,7 @@
 						</div>
 						<div class="product-info">
 							<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-							<div class="wrap-price"><span class="product-price">RM250.00</span></div>
+							<div class="wrap-price"><span class="product-price">RM 250.00</span></div>
 						</div>
 					</div>
 
@@ -195,7 +195,7 @@
 						</div>
 						<div class="product-info">
 							<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-							<div class="wrap-price"><ins><p class="product-price">RM168.00</p></ins> <del><p class="product-price">RM250.00</p></del></div>
+							<div class="wrap-price"><ins><p class="product-price">RM 168.00</p></ins> <del><p class="product-price">RM 250.00</p></del></div>
 						</div>
 					</div>
 
@@ -230,7 +230,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">RM250.00</span></div>
+											<div class="wrap-price"><span class="product-price">RM 250.00</span></div>
 										</div>
 									</div>
 
@@ -248,7 +248,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><ins><p class="product-price">RM168.00</p></ins> <del><p class="product-price">RM250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">RM 168.00</p></ins> <del><p class="product-price">RM 250.00</p></del></div>
 										</div>
 									</div>
 
@@ -267,7 +267,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><ins><p class="product-price">RM168.00</p></ins> <del><p class="product-price">RM250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">RM 168.00</p></ins> <del><p class="product-price">RM 250.00</p></del></div>
 										</div>
 									</div>
 
@@ -285,7 +285,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">RM2,500.00</span></div>
+											<div class="wrap-price"><span class="product-price">RM 2500.00</span></div>
 										</div>
 									</div>
 
@@ -300,7 +300,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">RM399.00</span></div>
+											<div class="wrap-price"><span class="product-price">RM 399.00</span></div>
 										</div>
 									</div>
 
@@ -318,7 +318,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><ins><p class="product-price">RM168.00</p></ins> <del><p class="product-price">RM250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">RM 168.00</p></ins> <del><p class="product-price">RM 250.00</p></del></div>
 										</div>
 									</div>
 
@@ -336,7 +336,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">RM250.00</span></div>
+											<div class="wrap-price"><span class="product-price">RM 250.00</span></div>
 										</div>
 									</div>
 
@@ -354,7 +354,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">RM250.00</span></div>
+											<div class="wrap-price"><span class="product-price">RM 250.00</span></div>
 										</div>
 									</div>
 
